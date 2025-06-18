@@ -274,8 +274,8 @@ $danger-color: #ef4444;
   border-color: $danger-color;
 
   &:hover {
-    background-color: color.scale($danger-color, $lightness: -10%);
-    border-color: color.scale($danger-color, $lightness: -10%);
+    background-color: #dc2626;
+    border-color: #dc2626;
   }
 }
 </style>
