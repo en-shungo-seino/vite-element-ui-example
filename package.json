@@ -7,13 +7,12 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "element-ui": "^2.15.1",
-    "vue": "^2.6.12"
+    "element-ui": "^2.11.1",
+    "vue": "^2.5.22"
   },
   "devDependencies": {
-    "esbuild-plugin-vite-element-ui": "^1.0.2",
     "sass": "^1.89.2",
-    "vite": "^2.9.8",
-    "vite-plugin-vue2": "^1.5.1"
+    "vite": "^4.5.14",
+    "vite-plugin-vue2": "^2.0.3"
   }
 }
