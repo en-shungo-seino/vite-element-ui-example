@@ -1,0 +1,19 @@
+{
+  "name": "vite-element-ui-example",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "element-ui": "^2.15.1",
+    "vue": "^2.6.12"
+  },
+  "devDependencies": {
+    "esbuild-plugin-vite-element-ui": "^1.0.2",
+    "sass": "^1.89.2",
+    "vite": "^2.9.8",
+    "vite-plugin-vue2": "^1.5.1"
+  }
+}
