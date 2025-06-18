@@ -14,7 +14,9 @@ Vue 2 と Element UI を使用した最小構成の TODO アプリケーショ�
 重要な注意点
 
 - Vite 4.x は Vue 2 プロジェクトでも動作可能
+  - Vite 5.x 以降は Vue3 での動作のみ
 - `@vitejs/plugin-vue`は Vue 3 用のため、代わりに`vite-plugin-vue2`を使用
+  - vite-plugin-vue2@2.0.3は Vite 4.x と互換性あり
 
 ## 実装のポイント
 
