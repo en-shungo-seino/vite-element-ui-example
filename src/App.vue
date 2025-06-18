@@ -92,8 +92,6 @@ export default {
 </script>
 
 <style lang="scss">
-@use "sass:color";
-
 // グローバルリセット
 * {
   margin: 0;
